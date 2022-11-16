@@ -11,7 +11,7 @@ A freelancer blog  site.
     </td>
     
   </tr>
-  <tr>
+  <tr style="width:200px;">
     <td>Ana Sayfa</td>
     <td>Hakkımda Sayfası</td>
   </tr>
