@@ -1,6 +1,11 @@
 # FreelancerSite
-A freelancer blog  site.
-
+A freelancer blog  site. My purpose in making this site was to improve myself.
+Properties
+---------------------
+*Home page on Developer, Designer... changeable words.
+*Swipeable references section on About Me page.
+*On hover moveable boxes on Projects page.
+*Interactable form fields on Contacs page.
 
 <p float="left">
 <img src="https://i.hizliresim.com/61m2iw0.jpg" width="500" />
