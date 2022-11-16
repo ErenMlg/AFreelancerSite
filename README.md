@@ -7,11 +7,11 @@ Properties
 *Home page on Developer, Designer... changeable words.<br>
 *Swipeable references section on About Me page.<br>
 *On hover moveable boxes on Projects page.<br>
-*Interactable form fields on Contacs page.<br>
+*Interactable form fields on Contacs page.<br><br>
 
 <p float="left">
 <img src="https://i.hizliresim.com/61m2iw0.jpg" width="500" />
-<img src="https://i.hizliresim.com/sbr4isz.jpg" width="500" />
+<img src="https://i.hizliresim.com/sbr4isz.jpg" width="500" /><br>
 <img src="https://i.hizliresim.com/3ix35qb.jpg" width="500" />
 <img src="https://i.hizliresim.com/5u8fr49.jpg" width="500" />
 <img src="https://i.hizliresim.com/tnk8g4f.jpg" width="500" />
