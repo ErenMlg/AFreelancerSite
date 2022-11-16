@@ -1,5 +1,6 @@
 # FreelancerSite
-A freelancer blog  site. My purpose in making this site was to improve myself.
+A freelancer blog  site. My purpose in making this site was to improve myself.<br><br>
+
 Properties
 ---------------------
 *Home page on Developer, Designer... changeable words.<br>
