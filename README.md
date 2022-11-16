@@ -6,8 +6,8 @@ A freelancer blog  site.
   <tr>
     <td><img src="https://i.hizliresim.com/61m2iw0.jpg" width="400" /></td>
     <td>
-      <img src="https://i.hizliresim.com/3ix35qb.jpg" width="200" height="193,44" />
-      <img src="https://i.hizliresim.com/tnk8g4f.jpg" width="200" height="193,44"/>
+      <img src="https://i.hizliresim.com/3ix35qb.jpg" width="300" height="193,44" />
+      <img src="https://i.hizliresim.com/tnk8g4f.jpg" width="300" height="193,44"/>
     </td>
     
   </tr>
