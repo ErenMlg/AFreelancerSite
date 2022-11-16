@@ -1,4 +1,4 @@
-# FreelancerSite
+<center>#FreelancerSite</center>
 A freelancer blog  site. My purpose in making this site was to improve myself.<br><br>
 
 Properties
