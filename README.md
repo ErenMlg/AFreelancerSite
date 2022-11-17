@@ -3,10 +3,10 @@
 A freelancer blog  site. My purpose in making this site was to improve myself.<br><br>
 
 # Properties
-Home page on Developer, Designer... changeable words.<br>
-Swipeable references section on About Me page.<br>
-On hover moveable boxes on Projects page.<br>
-Interactable form fields on Contacs page.<br><br><br>
+- Home page on Developer, Designer... changeable words.<br>
+- Swipeable references section on About Me page.<br>
+- On hover moveable boxes on Projects page.<br>
+- Interactable form fields on Contacs page.<br><br><br>
 
 # Images
 
